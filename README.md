@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umberto</h1>
-<h3 align="center">A computer engineering student</h3>
+<h3 align="center">A computer engineer, cybersecurity engineering student.</h3>
 
 - 📫 How to reach me **umbertofrega@gmail.com**
 
